@@ -17,7 +17,7 @@
       },
       {
         "name": "Flutter",
-        "logo": "hthttps://github.com/DanrleyS/js-developer-portfolio/blob/main/data/imgs/flutter.png?raw=true"
+        "logo": "https://github.com/DanrleyS/js-developer-portfolio/blob/main/data/imgs/flutter.png?raw=true"
       },
       {
         "name": "Git",
@@ -25,7 +25,7 @@
       },
       {
         "name": "GitHub",
-        "logo": ""
+        "logo": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
       },
       {
         "name": "HTML",
@@ -72,7 +72,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
-    
+
     "softSkills": [
       "Raciocinio Lógico",
       "Trabalho em equipe",
