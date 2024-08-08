@@ -99,13 +99,38 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Relogio mundial - Em Python",
+      "url": "https://github.com/DanrleyS/Portifolio/blob/main/Relogio%20mundial%20-%20Em%20Python",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Quiz funcional em Python",
+      "url": "https://github.com/DanrleyS/Portifolio/blob/main/Quiz%20funcional%20em%20Python",
+      "github": true
+    },
+    {
+      "name": "Sistema bancario em Python - ultilizando defs",
+      "url": "https://github.com/DanrleyS/Portifolio/blob/main/Sistema%20bancario%20em%20Python%20-%20ultilizando%20defs",
+      "github": true
+    },
+    {
+      "name": "Sistema Bancario em Python - ultilizando classes e métodos",
+      "url": "https://github.com/DanrleyS/Portifolio/blob/main/Sistema%20Bancario%20em%20Python%20-%20ultilizando%20classes%20e%20m%C3%A9todo #32",
+      "github": true
+    },
+    {
+      "name": "Calculadora Cientifica em JS",
+      "url": "https://github.com/DanrleyS/calculadora-cientifica",
+      "github": true
+    },
+    {
+      "name": "Pokedex em JavaScript",
+      "url": "https://github.com/DanrleyS/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Joguinho de carro com HTML, CSS, JavaScript",
+      "url": "https://github.com/DanrleyS/joguinho-de-carro--Com-html--javaScript--css",
       "github": true
     }
   ],
