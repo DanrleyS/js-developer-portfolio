@@ -70,6 +70,14 @@
       {
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      },
+      {
+        "name": "DotNet",
+        "logo": "https://learn.microsoft.com/pt-pt/media/logos/logo_net.svg"
+      },
+      {
+        "name": "C#",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png"
       }
     ],
 
