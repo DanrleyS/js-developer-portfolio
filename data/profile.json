@@ -76,8 +76,16 @@
         "logo": "https://learn.microsoft.com/pt-pt/media/logos/logo_net.svg"
       },
       {
+        "name": "Figma",
+        "logo": "data:image/webp;base64,UklGRvgCAABXRUJQVlA4IOwCAAAQEQCdASo4ADgAPi0Ki0WhkNDM+BgCxLQAQfQxhX/zD7o/tV0J8G+YD7APkB9t3qQfcB2gPMB/Cv65/oPaS9CHoAfrv1gHoAfqf1n/7M/tp7TP//O8DS4sxftBqFZIokNeujhPij5c7z7aX88R20LJEorn0Xbw9xgvU6TbxISNlhjGJJuwtdalcTtYSbjaRMQAAP7+zLXklnm1xAlt1rdcLsv/6mrqpuIK6xsVYOvT5ZXfZlQkrfB7+Z1PgO6GovgYM8kcbrtA2YDBWo8LTz7T2mnGFHzTrXkVYrJ8deCweJGaYyCGS8QfZH5+k8bE7t1CATrL6w0rBNb5HsT0bWU2OXCdBlCwlef/YNETh+1iX9BTNWfNBcX+ot0tem5Ec4dWoYvU5tQKyS1ZAGaEHV+WlLPM7HQXO+WQJ97d8CDezSB7TENrdk7Ld/hxYZHS7Th26m+X86KppOiMy/CYG0ltcZs35LzVPM9qNgoGxrxF9YcLOfLsM4xarnNhgcGwWiLlU1Hwj56Nwo9hRHc/JrNAPNVCDjT2vOfBhpjP0tYhCN+I7xwmTksehhH9BbfPp0PqRVNOzovrWdKi8N/u6e+z/v/79EdraBiLJHTfJqMwjLNd+wv5JjVv3hRsiVkNf1MqM1d4t+baT5AOUaGwv6rWCvz0DcHsrmqZUPo7JMv8g+t/7JOf9VKNZMKztlbU+0Lkqk1vHR5u0miJTrsUvMtiZo/u4hwAVi1FOfhZ1oUZbmI+ZR4N/52M5zBN9ZnrDFUtMu0BOm/jdn35d65Ly+BnGrPWujXkd+pS+vFDjoChhGb/Ytmizry6MMtezCtO/Yib6Fk+c5wGsqDlJ8AmPO7g72GQ2ifiGnA+Z/fUfP8qon0zvQGtAtbN6p5j2iyXqH4NnejXDToekdauuRhGBk3iKg/lLXdv1uW7RcILs7AfTtd8TZYkq/TPODFCutbJNhcgV6XE2xkB+fy8mq81HZVEUbUigSCDdgR+AAAA"
+      },
+      {
         "name": "C#",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png"
+      },
+      {
+        "name": "MariaDB",
+        "logo": "https://mariadb.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/mariadb-logo_black-transparent-300x75.png.webp"
       }
     ],
 
